@@ -1,4 +1,4 @@
-# Optimisation of file transfer through router network
+# Optimisation of file transfer through a router network
 
 Maximum-capacity-path
 
